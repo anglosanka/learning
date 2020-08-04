@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+*
+{
+	border: none;
+}
+
+html, body
+{
+	width: 100%;
+	overflow-x: hidden;
+}
+
+.box1
+{
+	width: 30em;
+	height: 10em;
+    border-radius: .1875rem;
+    border: 1px solid #e1e1e8;
+    padding: .3125rem;
+    margin: auto;
+    margin-top: 100px;
+}
